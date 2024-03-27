@@ -1,0 +1,9 @@
+Should you publish material that made use of this LR-TGV method for MRSI, please cite the following publication:
+
+1) Knoll, F., Bredies, K., Pock, T., & Stollberger, R. (2011).
+"Second order total generalized variation (TGV) for MRI". 
+Magnetic Resonance in Medicine, 65(2), 480–491. https://doi.org/10.1002/mrm.22595   
+
+2) Klauser, A., Courvoisier, S., Kasten, J., Kocher, M., Guerquin-Kern, M., van de Ville, D., & Lazeyras, F. (2019).
+"Fast high-resolution brain metabolite mapping on a clinical 3T MRI by accelerated 1H-FID-MRSI and low-rank constrained reconstruction". 
+Magnetic Resonance in Medicine, 81(5), 2841–2857. https://doi.org/10.1002/mrm.27623
