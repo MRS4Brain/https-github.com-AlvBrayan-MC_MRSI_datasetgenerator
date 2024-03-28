@@ -1,0 +1,1 @@
+../MRSI_Recon_2D_Brucker/run_MRSI_CSSENSELR_Recon.bash Met.dat Water.dat AcqParam.m DataTest_1Em3TGC_0LipSup_16WaterSup_10LR 1E-3 0 16 10 1
